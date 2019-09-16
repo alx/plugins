@@ -1,4 +1,4 @@
-package url
+package arxiv
 
 import (
 	"github.com/go-chat-bot/bot"
